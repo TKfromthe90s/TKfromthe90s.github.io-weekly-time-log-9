@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Weekly Time Log 9
 
-You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-9/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Date 11-9-2020
+- Hours Spent: 0
+- Work Description: Zero Day due to other coursework, as per usual
 
-### Markdown
+# Date 11-10-2020
+- Hours Spent: 0
+- Work Description: Zero Day to continue work on previously mentioned design program, which proved to be more complicated than expected
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Date 11-11-2020
+- Hours Spent: 5
+- Work Description: Restructured plans for remainder of game development timeline to allow for the completion of critical assignments in other courses
+= Unfortunately resulted in simplified goals for game project
 
-```markdown
-Syntax highlighted code block
+# Date 11-12-2020
+- Hours Spent: 0
+- Work Description: Zero Day to resume work on design program
 
-# Header 1
-## Header 2
-### Header 3
+# Date 11-13-2020
+- Hours Spent: 0
+- Work Description: Zero Day to continue work on design program
 
-- Bulleted
-- List
+# Date 11-14-2020
+- Hours Spent: 0
+- Work Description: Zero Day to prepare this Time Log and Progress Report 3 for submission, as well as continue work on design program
 
-1. Numbered
-2. List
+# Date 11-15-2020
+- Hours Spent: 0
+- Work Description: Zero Day to finalize work in design program before due time at 11:59PM
 
-**Bold** and _Italic_ and `Code` text
+# Total Hours Spent
+-164
 
-[Link](url) and ![Image](src)
+[Return to Time Logs](https://tkfromthe90s.github.io/TKfromthe90s.github.io-weekly-time-logs/)
+[Return to Homepage](https://tkfromthe90s.github.io/)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-9/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
